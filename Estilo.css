@@ -1,0 +1,32 @@
+.sec-1 {
+    text-align: center;
+}
+
+
+body {
+background-color: cyan;
+}
+
+
+h1 {
+text-align: center;
+color: rgb(0, 119, 255);
+background-color: orange;
+
+}
+
+p{
+    text-align: center;
+    color: black;
+    background-color: orange;
+}
+
+nav li{
+    text-align: center;
+    background-color: grey;
+    color: white;
+    display: inline-block ;
+    padding: 34px;
+}
+
+

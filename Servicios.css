@@ -1,0 +1,16 @@
+p {
+    background-color:  red;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
+
+nav li {
+    
+    background-color: gray;
+    color: white;
+    display: inline-block ;
+    padding: 34px;
+}
